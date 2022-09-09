@@ -91,7 +91,7 @@ int main(){
         mostrar(ter,rez,pex,w,clie,prod,dw);
     }
     cout << endl;
-    cout << "Listado de km recorridos por tipo de producto(ascendente): " << endl;
+    cout << "Listado de km recorridos por tipo de producto: " << endl;
     //Funcion
     for (int y = 0; y < 5; ++y){
         cout << prod[y] << ": " << re[y] << endl;
